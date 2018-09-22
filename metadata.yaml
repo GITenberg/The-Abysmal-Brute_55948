@@ -1,0 +1,36 @@
+_repo: The-Abysmal-Brute_55948
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Grant, Gordon
+    alias: Grant, Gordon H.
+    birthdate: 1875
+    deathdate: 1962
+    gutenberg_agent_id: '8049'
+    url: http://www.gutenberg.org/2009/agents/8049
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2017-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55948'
+  lccn: '13011303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boxing stories'
+- !lcsh 'Boxers (Sports) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Abysmal Brute
+url: http://www.gutenberg.org/ebooks/55948
